@@ -134,7 +134,7 @@
                         <li class="current-item"><a href="docs" title="Dökümantasyon">Dökümantasyon</a></li>
                         <li><a href="https://github.com/laravel/laravel" title="Github">Github</a></li>
                         <li><a href="http://forum.laravel.gen.tr" title="Laravel Forums">Forum</a></li>
-                        <li><a href="http://twitter.com/laravelphp" title="Twitter'da Laravel">Twitter</a></li>
+                        <li><a href="http://twitter.com/laraveltr" title="Twitter'da Laravel">Twitter</a></li>
                     </ul>
                 </nav>
                 <!-- /nav -->
