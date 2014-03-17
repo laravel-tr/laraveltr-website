@@ -113,20 +113,12 @@
    <article class="boxed">
        <ul id="quote" class="nolist textcenter aligncenter">
            <li class="animated flipInX">
-               <div class="quote"><p>Laravel has changed my life. The best framework to quickly turn an idea into product.</p></div>
-               <div class="person">Maksim Surguy</div>
+               <div class="quote"><p>Laravel ile yazılım geliştirme daha eğlenceli ve acısız</p></div>
+               <div class="person">Can Geliş</div>
            </li>
            <li class="animated flipInX">
-               <div class="quote"><p>Laravel reignited my passion for code, reinforced my understanding of MVC, and made development fun again!</p></div>
-               <div class="person">Jozef Maxted</div>
-           </li>
-           <li class="animated flipInX">
-               <div class="quote"><p>Laravel kept me from leaving PHP.</p></div>
-               <div class="person">Michael Hasselbring</div>
-           </li>
-           <li class="animated flipInX">
-               <div class="quote"><p>Laravel helped me stop reinventing the wheel!</p></div>
-               <div class="person">Ryan McDonough</div>
+               <div class="quote"><p>Daha çok kod yazıp daha az geliştirme yapmaktan sıkıldıysanız Laravel'e bir göz atın</p></div>
+               <div class="person">Resul Aslan</div>
            </li>
        </ul>
    </article>
