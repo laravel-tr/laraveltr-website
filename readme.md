@@ -1,3 +1,3 @@
-## Laravel Website
+## Laravel Türkiye Websitesi
 
-This repository contains the code for the official [Laravel website](http://laravel.com).
+Bu ambar resmi [Laravel Türkiye web sitesi](http://laravel.gen.tr)ne ait kodları içermektedir.
