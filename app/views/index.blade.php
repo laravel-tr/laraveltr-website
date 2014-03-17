@@ -33,7 +33,7 @@
         </div>
         <ul>
             <li class="current-item"><a href="#">Hoşgeldiniz</a></li>
-            <li><a href="docs" title="Dökümantasyon">Dökümantasyon</a></li>
+            <li><a href="docs" title="Dokümantasyon">Dokümantasyon</a></li>
             <li><a href="//github.com/laravel-tr" title="Github">Github</a></li>
             <li><a href="http://forum.laravel.gen.tr" title="Laravel Forums">Forum</a></li>
             <li><a href="http://twitter.com/laraveltr" title="Twitter'da Laravel">Twitter</a></li>
@@ -144,7 +144,7 @@
 	        </div>
             <ul>
                 <li class="current-item"><a href="#">Hoşgeldiniz</a></li>
-                <li><a href="docs" title="Dökümantasyon">Dökümantasyon</a></li>
+                <li><a href="docs" title="Dokümantasyon">Dokümantasyon</a></li>
                 <li><a href="//github.com/laravel-tr" title="Github">Github</a></li>
                 <li><a href="http://forum.laravel.gen.tr" title="Laravel Forums">Forum</a></li>
                 <li><a href="http://twitter.com/laraveltr" title="Twitter'da Laravel">Twitter</a></li>
