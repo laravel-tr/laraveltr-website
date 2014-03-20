@@ -120,6 +120,10 @@
                <div class="quote"><p>Daha çok kod yazıp daha az geliştirme yapmaktan sıkıldıysanız Laravel'e bir göz atın</p></div>
                <div class="person">Resul Aslan</div>
            </li>
+           <li class="animated flipInX">
+               <div class="quote"><p>Bir sanat eseri için resim veya müzikte yetenekli olmanıza gerek yok, Laravel öğrenin!</p></div>
+               <div class="person">Oğuzhan Selçuk Bülbül</div>
+           </li>
        </ul>
    </article>
 </section>
