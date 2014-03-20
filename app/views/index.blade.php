@@ -55,15 +55,15 @@
                 </li>
                 <li class="one_quarter">
                     <h2><i class="icon-graph"></i> <a title="Verilerinize Hükmedin" href="docs/eloquent">Verilerinize Hükmedin</a></h2>
-                    <p>Muhteşem Eloquent ORM ve harika bir migrasyon sistemiyle birlikte gelir. MySQL, Postres, SQL Server ve SQLite ile sorunsuz çalışır.</p>
+                    <p>Laravel muhteşem Eloquent ORM ve harika bir migrasyon sistemiyle birlikte gelir. MySQL, PostgreSQL, SQL Server ve SQLite ile sorunsuz çalışır.</p>
                 </li>
                 <li class="one_quarter">
                     <h2><i class="icon-pencil-alt"></i> <a title="Zarif Tasarım Şablonları" href="docs/templates">Zarif Tasarım Şablonları</a></h2>
-                    <p>İster düz PHP isterseniz de hafif Blade şablon motorunu kullanın. Blade, harika şablon kalıtımı sağlar ve inanılmaz hızlıdır. Blade'e aşık olacaksınız.</p>
+                    <p>İster düz PHP, isterseniz de hafif Blade şablon motorunu kullanın. Blade, harika şablon kalıtımı sağlar ve son derece hızlıdır. Blade'e aşık olacaksınız.</p>
                 </li>
                 <li class="one_quarter">
                     <h2><i class="icon-time"></i> <a title="Yarınlar İçin" href="docs/routing">Yarınlar İçin</a></h2>
-                    <p>İster devasa kurumsal uygulamalar isterseniz basit JSON API'ları oluşturun. İster güçlü denetçiler isterseniz de zayıf REST destekli rotalar yazın. Laravel her boyuttaki işleriniz için mükemmeldir.</p>
+                    <p>İster devasa kurumsal uygulamalar geliştirin, isterseniz basit JSON API'ları oluşturun. İster güçlü denetçiler isterseniz de zayıf REST destekli rotalar yazın. Laravel her boyuttaki işleriniz için mükemmeldir.</p>
                 </li>
                 <li class="one_quarter">
                     <h2><i class="icon-cog"></i> <a title="Kanıtlanmış Temel" href="http://www.symfony.com">Kanıtlanmış Temel</a></h2>
@@ -71,15 +71,15 @@
                 </li>
                 <li class="one_quarter">
                     <h2><i class="icon-star"></i> <a title="Composer'la Güçlendirilmiş" href="http://getcomposer.org">Composer'la Güçlendirilmiş</a></h2>
-                    <p>Composer, uygulamanızın üçüncü parti paketlerini kontrol etmek için harika bir araçtır. Packagist'ten istediğiniz paketleri bulup saniyeler içinde kullanmaya başlayın.</p>
+                    <p>Composer, uygulamanızın üçüncü parti paketlerini kontrol etmek için harika bir araçtır. Packagist'ten istediğiniz paketleri bulup saniyeler içinde kullanmaya başlayabilirsiniz.</p>
                 </li>
                 <li class="one_quarter">
                     <h2><i class="icon-group"></i> <a title="Harika Topluluk" href="http://laravel.io/forum">Harika Topluluk</a></h2>
-                    <p>PHP'ye yeni de başlasanız, mimari astronotu da olsanız uyum sağlarsınız. IRC odalarında fikirlerinizi tartışın veya forumlara sorularınızı gönderin.</p>
+                    <p>PHP'ye yeni de başlasanız, mimari astronotu da olsanız Laravel'e uyum sağlarsınız. IRC odalarında fikirlerinizi tartışabilir veya forumlarda sorularınızı sorabilirsiniz.</p>
                 </li>
                 <li class="one_quarter">
                     <h2><i class="icon-wrench"></i> <a title="Red, Green, Refactor" href="docs/testing">Red, Green, Refactor</a></h2>
-                    <p>Laravel, test edilebilmeyi düşünerek yazılmıştır. IoC ile esnek kalıp PHPUnit ile testlerinizi çalıştırın. Endişelenmeyin... Düşündüğünüzden daha kolay.</p>
+                    <p>Laravel, test edilebilirliği düşünerek geliştirilmiştir. IoC ile esnek kalıp PHPUnit ile testlerinizi çalıştırın. Endişelenmeyin... Düşündüğünüzden daha kolay.</p>
                 </li>
             </ul>
         </article>
