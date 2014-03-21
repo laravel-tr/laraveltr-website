@@ -113,16 +113,24 @@
    <article class="boxed">
        <ul id="quote" class="nolist textcenter aligncenter">
            <li class="animated flipInX">
-               <div class="quote"><p>Laravel ile yazılım geliştirme daha eğlenceli ve acısız</p></div>
+               <div class="quote"><p>Laravel ile yazılım geliştirme daha eğlenceli ve acısız.</p></div>
                <div class="person">Can Geliş</div>
            </li>
            <li class="animated flipInX">
-               <div class="quote"><p>Daha çok kod yazıp daha az geliştirme yapmaktan sıkıldıysanız Laravel'e bir göz atın</p></div>
+               <div class="quote"><p>Daha çok kod yazıp daha az geliştirme yapmaktan sıkıldıysanız Laravel'e bir göz atın.</p></div>
                <div class="person">Resul Aslan</div>
            </li>
            <li class="animated flipInX">
                <div class="quote"><p>Bir sanat eseri için resim veya müzikte yetenekli olmanıza gerek yok, Laravel öğrenin!</p></div>
                <div class="person">Oğuzhan Selçuk Bülbül</div>
+           </li>
+           <li class="animated flipInX">
+               <div class="quote"><p>Bütün php frameworkleri berbattır, Laravel hepsinden berbat!</p></div>
+               <div class="person">Sergin Arı</div>
+           </li>
+           <li class="animated flipInX">
+               <div class="quote"><p>Laravel ile kodlamak, şiir yazmak gibi...</p></div>
+               <div class="person">Sinan Eldem</div>
            </li>
        </ul>
    </article>
