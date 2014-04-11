@@ -132,6 +132,11 @@
                <div class="quote"><p>Laravel ile kodlamak, şiir yazmak gibi...</p></div>
                <div class="person">Sinan Eldem</div>
            </li>
+           <li class="animated flipInX">
+               <div class="quote"><p>Sıkılmadan zevk alarak kod yazmak ister misiniz? Buyrun o zaman Laravel dünyasına.</p></div>
+               <div class="person">Rasim Özdinç</div>
+           </li>           
+           
        </ul>
    </article>
 </section>
