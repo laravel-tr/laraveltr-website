@@ -135,8 +135,7 @@
            <li class="animated flipInX">
                <div class="quote"><p>Sıkılmadan zevk alarak kod yazmak ister misiniz? Buyrun o zaman Laravel dünyasına.</p></div>
                <div class="person">Rasim Özdinç</div>
-           </li>           
-           
+           </li>
        </ul>
    </article>
 </section>
