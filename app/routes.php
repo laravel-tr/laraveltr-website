@@ -32,12 +32,12 @@ if (isset($_GET['v']))
  */
 if ( ! Cookie::has('docs_version'))
 {
-	Cookie::queue('docs_versions', '4.1');
+	Cookie::queue('docs_versions', '4.2');
 }
 
 if ( ! defined('DOCS_VERSION'))
 {
-	define('DOCS_VERSION', Cookie::get('docs_version', '4.1'));
+	define('DOCS_VERSION', Cookie::get('docs_version', '4.2'));
 }
 
 /**
@@ -79,6 +79,12 @@ Route::get('docs/4-0', function()
 Route::get('docs/4-1', function()
 {
 	Cookie::queue('docs_version', '4.1', 525600);
+
+	return Redirect::back();
+});
+Route::get('docs/4-2', function()
+{
+	Cookie::queue('docs_version', '4.2', 525600);
 
 	return Redirect::back();
 });
