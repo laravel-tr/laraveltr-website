@@ -69,7 +69,7 @@
                 <div id="version">
                     <ul class="nolist">
                         <li class="current"><a href="{{ url('docs/4-1') }}" title="4.1">4.1</a></li>
-                        <li class="current"><a href="{{ url('docs/4-2') }}" title="4.2">4.1</a></li>
+                        <li class="current"><a href="{{ url('docs/4-2') }}" title="4.2">4.2</a></li>
                     </ul>
                 </div>
                 <!-- /version -->
