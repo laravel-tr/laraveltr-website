@@ -1,8 +1,10 @@
-/bootstrap/compiled.php
 /vendor
-/docs
-/app/config/site.php
-composer.phar
-.DS_Store
+/resources/docs
 /public/api
-laravel.phar
+/build/sami/build
+/build/sami/cache
+/node_modules
+composer.phar
+.env.*
+.DS_Store
+Thumbs.db
